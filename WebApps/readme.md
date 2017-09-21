@@ -1,4 +1,4 @@
-**Helpful code for working with Azure WebApps.**
+# **Helpful code for working with Azure WebApps.**
 
 Mentioned in this blog post: [Azure Help: WebApps–Copying and Exporting Connection Strings and App Settings](http://jasonhaley.com/post/Azure-Help-WebApps-Copying-and-Exporting-Connection-Strings-and-App-Settings)
 
